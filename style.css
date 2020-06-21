@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/work.jpg);
+    background-image: url(https://raw.githubusercontent.com/nlsonserrano/NelsonSerrano/master/img/work.jpg);
     background-position: center;
     background-size: cover;
     background-blend-mode: darken;
